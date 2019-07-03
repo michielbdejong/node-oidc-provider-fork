@@ -2,7 +2,7 @@
 
 [![build][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url]
 
-oidc-provider is an OpenID Provider implementation of [OpenID Connect][openid-connect]. It allows to
+oidc-provider is an OpenID Provider implementation of [OpenID Connect][openid-connect]. It allows to 
 export a complete mountable or standalone OpenID Provider implementation. This implementation does
 not dictate a fixed data model or persistence store, instead, you must provide adapters for these.
 A generic in-memory adapter is available to get you started as well as feature-less dev-only views
@@ -188,5 +188,5 @@ See the list of available emitted [event names](/docs/events.md) and their descr
 [support-patreon]: https://www.patreon.com/panva
 [support-paypal]: https://www.paypal.me/panva
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTQzMDM1MF19
+eyJoaXN0b3J5IjpbLTEzNjc0OTE1NjBdfQ==
 -->
