@@ -187,3 +187,6 @@ See the list of available emitted [event names](/docs/events.md) and their descr
 [jarm]: https://openid.net/specs/openid-financial-api-jarm-wd-01.html
 [support-patreon]: https://www.patreon.com/panva
 [support-paypal]: https://www.paypal.me/panva
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc2OTQzMDM1MF19
+-->
